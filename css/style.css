@@ -889,6 +889,7 @@
 	{
 		position: relative;
 		background: #fff;
+		text-align: center;
 	}
 
 	.homepage #content
@@ -924,6 +925,15 @@
 	#footer header .byline
 	{
 		color: rgba(255,255,255,.2);
+	}
+
+	#footer li {
+		font-size: 1.2em;
+		margin-top: 15px;
+	}
+
+	#footer i.fa {
+		margin-right: 10px;
 	}
 
 /*********************************************************************************/
