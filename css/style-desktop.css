@@ -24,6 +24,7 @@
 		header h2
 		{
 			font-size: 3.4em;
+			padding: 0.50em 0em;
 		}
 
 		header .byline
@@ -37,11 +38,6 @@
 
 	#header
 	{
-		padding: 10em 0 6em 0;
-	}
-
-	.homepage #header
-	{
 		padding: 16em 0 12em 0;
 	}
 
@@ -51,7 +47,7 @@
 
 	#main
 	{
-		padding: 5em 0em;
+		padding: 4em 0em;
 	}
 
 	#main header {
@@ -63,25 +59,23 @@
 		display: inline-block;
 	}
 
-	.homepage #content header h2
+	#main header h2
 	{
-		padding: 0.70em 0em;
-		font-size: 2.2em;
-	}
-
-	#sidebar h2
-	{
-		font-size: 2.4em;
+		font-size: 3.4em;
 	}
 
 	#resume
 	{
-		padding: 5em 0em;
+		padding: 4em 0em;
 	}
 	#resume ul
 	{
 		width: 70%;
 		margin: auto;
+	}
+
+	header h2 {
+		font-size: 2.2em;
 	}
 
 /*********************************************************************************/
@@ -90,7 +84,7 @@
 
 	#footer
 	{
-		padding: 5em 0em;
+		padding: 4em 0em;
 	}
 
 	#footer h2
@@ -108,7 +102,7 @@
 
 	#featured
 	{
-		padding: 5em 0em;
+		padding: 4em 0em;
 	}
 
 	#featured h3
@@ -134,7 +128,7 @@
 
 	#tweet
 	{
-		padding: 5em 0em;
+		padding: 4.5em 0em;
 	}
 
 	#tweet blockquote

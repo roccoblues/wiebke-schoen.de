@@ -113,7 +113,7 @@
 		header .byline
 		{
 			display: block;
-			margin: 1.5em 0 0 0;
+			margin: 1em 0 0 0;
 			padding: 0 0 0.5em 0;
 		}
 
@@ -892,19 +892,9 @@
 		text-align: center;
 	}
 
-	.homepage #content
+	#main p
 	{
-		text-align: center;
-	}
-
-	.homepage #content header h2
-	{
-	}
-
-	#sidebar h2
-	{
-		display: block;
-		padding-bottom: 0.50em;
+		font-size: 1.2em;
 	}
 
 	#resume
@@ -912,6 +902,12 @@
 		list-style-type: disc;
 		text-align:left;
 		padding-left:2em;
+	}
+
+	#resume p
+	{
+		font-size: 1.2em;
+		margin-bottom: 2em;
 	}
 
 	#resume li
