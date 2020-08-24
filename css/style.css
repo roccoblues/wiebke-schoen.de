@@ -1065,6 +1065,7 @@
 
 #datenschutz {
 	background: #fff;
+	line-height: 1.4em;
 }
 
 #datenschutz #container {
@@ -1075,5 +1076,7 @@
 }
 
 #datenschutz h4 {
-	font-size: 1.5em;
+	font-size: 1.4em;
+	margin-top: 1em;
+	margin-bottom: 0.7em;
 }
