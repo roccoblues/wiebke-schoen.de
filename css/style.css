@@ -935,12 +935,39 @@
 	list-style-type: disc;
 	text-align:left;
 	padding-left:2em;
+	width: 100%;
 }
 
 #resume li
 {
 	margin-top:1.2em
 }
+
+#resume-container
+{
+	display: flex;
+	padding-left:2em;
+	padding-right:2em
+}
+
+#resume-left
+{
+	width: 70%;
+}
+
+#resume-right
+{
+	padding-top: 1.8em;
+	width: 30%;
+	text-align: center;
+}
+
+.profile-image
+{
+	border-radius: 25px
+}
+
+
 
 /*********************************************************************************/
 /* Footer                                                                        */
