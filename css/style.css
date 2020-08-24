@@ -926,7 +926,7 @@
 #resume
 {
 	position: relative;
-	background: #f2f2f2;
+	background: #fff;
 	text-align: center;
 }
 
@@ -1003,7 +1003,7 @@
 	#featured
 	{
 		position: relative;
-		background: #fff;
+		background: #f2f2f2;
 		text-align: center;
 	}
 
